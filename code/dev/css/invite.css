@@ -70,18 +70,6 @@ body .add .addone .button {
   color: #fff268;
   text-decoration: none;
 }
-body .explain {
-  margin: 1rem 0 0.5rem 0;
-}
-body .explain p {
-  display: block;
-  width: 8rem;
-  font-size: 0.5rem;
-  color: #9cb92d;
-  line-height: 1rem;
-  text-align: center;
-  margin: 0 auto;
-}
 body .rule {
   width: 100%;
   text-align: center;

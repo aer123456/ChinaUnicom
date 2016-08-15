@@ -44,6 +44,11 @@ body .rules .rule p {
   line-height: 0.7rem;
   margin-bottom: 0.2rem;
 }
+body .rules .rule .explain {
+  font-size: 0.6rem;
+  color: #f00;
+  line-height: 1rem;
+}
 body .award {
   width: 100%;
 }
