@@ -45,7 +45,7 @@ body .add .addone {
   margin: 1rem auto 0 auto;
 }
 body .add .addone p {
-  font-size: 0.4rem;
+  font-size: 0.5rem;
   color: #999;
   margin-bottom: 0.5rem;
 }
@@ -53,19 +53,34 @@ body .add .addone input {
   display: block;
   border: 1px solid #999;
   border-radius: 3px;
-  line-height: 0.6rem;
-  width: 5rem;
+  line-height: 0.8rem;
+  width: 8rem;
+  font-size: 0.4rem;
   text-align: center;
 }
-body .add .addone button {
+body .add .addone .button {
+  display: block;
+  width: 8rem;
+  text-align: center;
   font-size: 0.4rem;
   background: #9cb92d;
   border-radius: 3px;
-  line-height: 0.6rem;
-  padding-left: 0.4rem;
-  padding-right: 0.4rem;
+  line-height: 0.8rem;
   margin-top: 0.5rem;
   color: #fff268;
+  text-decoration: none;
+}
+body .explain {
+  margin: 1rem 0 0.5rem 0;
+}
+body .explain p {
+  display: block;
+  width: 8rem;
+  font-size: 0.5rem;
+  color: #9cb92d;
+  line-height: 1rem;
+  text-align: center;
+  margin: 0 auto;
 }
 body .rule {
   width: 100%;
@@ -77,9 +92,4 @@ body .rule a {
   margin: 0 auto;
   color: #d7000f;
   font-size: 0.5rem;
-}
-body .footer {
-  position: absolute;
-  bottom: 0.4rem;
-  left: 0.5rem;
 }
