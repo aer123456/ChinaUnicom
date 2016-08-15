@@ -23,19 +23,25 @@ body .goto p {
 body .goto .rule {
   position: absolute;
   display: inline-block;
-  width: 50%;
-  text-align: center;
-  font-size: 0.6rem;
-  color: #d7000f;
   top: 4rem;
+  left: 1rem;
 }
 body .goto .play {
   position: absolute;
   display: inline-block;
-  width: 50%;
-  text-align: center;
-  font-size: 0.8rem;
-  color: #d7000f;
   top: 4rem;
-  left: 5rem;
+  left: 6rem;
+}
+body .goto a {
+  display: inline-block;
+  width: 3rem;
+  font-size: 0.5rem;
+  background: #9cb92d;
+  border-radius: 2px;
+  line-height: 0.8rem;
+  margin-top: 0.5rem;
+  padding: 0 0.2rem;
+  color: #fff268;
+  text-align: center;
+  text-decoration: none;
 }

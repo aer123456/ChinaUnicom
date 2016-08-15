@@ -40,27 +40,15 @@ body .rules .rule {
 }
 body .rules .rule p {
   color: #f3c420;
-  font-size: 0.25rem;
-  line-height: 0.4rem;
+  font-size: 0.4rem;
+  line-height: 0.7rem;
   margin-bottom: 0.2rem;
 }
-body .rules .award {
-  width: 4.5rem;
-  text-align: center;
-  margin: 0 auto;
-  float: left;
+body .award {
+  width: 100%;
 }
-body .rules .award img {
-  width: 80%;
-}
-body .rules .award p {
-  font-size: 0.25rem;
-  text-align: center;
-  color: #f3c420;
-  margin: 0.3rem 0;
-}
-body .rules .a3 {
-  margin-top: -1rem;
+body .award img {
+  width: 100%;
 }
 body .footer {
   clear: both;
