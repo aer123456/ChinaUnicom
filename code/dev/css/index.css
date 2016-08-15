@@ -1,0 +1,41 @@
+* {
+  padding: 0;
+  border: 0;
+  margin: 0;
+}
+body {
+  width: 100%;
+}
+body img {
+  width: 100%;
+}
+body .goto {
+  position: relative;
+  width: 100%;
+}
+body .goto p {
+  position: absolute;
+  font-size: 0.4rem;
+  color: #d7000f;
+  top: 2.3rem;
+  left: 0.8rem;
+}
+body .goto .rule {
+  position: absolute;
+  display: inline-block;
+  width: 50%;
+  text-align: center;
+  font-size: 0.6rem;
+  color: #d7000f;
+  top: 4rem;
+}
+body .goto .play {
+  position: absolute;
+  display: inline-block;
+  width: 50%;
+  text-align: center;
+  font-size: 0.8rem;
+  color: #d7000f;
+  top: 4rem;
+  left: 5rem;
+}

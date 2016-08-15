@@ -1,0 +1,85 @@
+* {
+  padding: 0;
+  border: 0;
+  margin: 0;
+}
+body {
+  width: 100%;
+  background: url("../img/bgs.png");
+}
+body h3 {
+  font-size: 0.5rem;
+  text-align: center;
+  color: #f3c420;
+  margin: 1rem 0;
+}
+body .invites {
+  width: 100%;
+}
+body .invites .invite {
+  width: 8rem;
+  margin: 0 auto;
+  line-height: 1rem;
+}
+body .invites span {
+  font-size: 0.4rem;
+  color: #999;
+}
+body .invites .number {
+  padding-left: 0.5rem;
+}
+body .invites .status {
+  padding-left: 1rem;
+}
+body .invites .pass {
+  color: #9cb92d;
+}
+body .invites .notpass {
+  color: #d70010;
+}
+body .add {
+  width: 100%;
+}
+body .add .addone {
+  width: 8rem;
+  margin: 1rem auto 0 auto;
+}
+body .add .addone p {
+  font-size: 0.4rem;
+  color: #999;
+  margin-bottom: 0.5rem;
+}
+body .add .addone input {
+  display: block;
+  border: 1px solid #999;
+  border-radius: 3px;
+  line-height: 0.6rem;
+  width: 5rem;
+  text-align: center;
+}
+body .add .addone button {
+  font-size: 0.4rem;
+  background: #9cb92d;
+  border-radius: 3px;
+  line-height: 0.6rem;
+  padding-left: 0.4rem;
+  padding-right: 0.4rem;
+  margin-top: 0.5rem;
+  color: #fff268;
+}
+body .rule {
+  width: 100%;
+  text-align: center;
+  padding: 3rem 0 0.5rem 0;
+}
+body .rule a {
+  display: block;
+  margin: 0 auto;
+  color: #d7000f;
+  font-size: 0.5rem;
+}
+body .footer {
+  position: absolute;
+  bottom: 0.4rem;
+  left: 0.5rem;
+}
