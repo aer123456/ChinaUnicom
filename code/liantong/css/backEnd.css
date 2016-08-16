@@ -1,0 +1,52 @@
+* {
+  padding: 0;
+  border: 0;
+  margin: 0;
+}
+body {
+  width: 100%;
+  background: url("../img/bgs.png");
+}
+body h3 {
+  font-size: 0.5rem;
+  text-align: center;
+  color: #f3c420;
+  margin: 1rem 0;
+}
+body .invites {
+  width: 100%;
+  min-height: 12rem;
+}
+body .invites .invite {
+  width: 10rem;
+  margin: 0 auto;
+  line-height: 1rem;
+  text-align: center;
+}
+body .invites span {
+  font-size: 0.4rem;
+  color: #999;
+}
+body .invites .number {
+  padding-left: 0.5rem;
+}
+body .invites .status {
+  padding-left: 1rem;
+}
+body .invites .pass {
+  color: #9cb92d;
+}
+body .invites .notpass {
+  color: #d70010;
+}
+body p {
+  width: 9rem;
+  text-align: center;
+  font-size: 0.3rem;
+  line-height: 0.4rem;
+  color: #f3c420;
+  margin: 0.3rem auto;
+}
+body .footer .links {
+  display: none;
+}

@@ -21,6 +21,29 @@ body p {
   width: 8rem;
   margin: 0 auto;
   text-align: center;
-  font-size: 0.4rem;
+  font-size: 0.5rem;
+  line-height: 0.7rem;
   color: #fff268;
+}
+body .sorry {
+  position: absolute;
+  top: 8rem;
+  left: 2rem;
+  width: 6rem;
+  text-align: center;
+}
+body .play {
+  position: absolute;
+  top: 10rem;
+  left: 3rem;
+  width: 4rem;
+  padding: 0 0.2rem;
+  color: #fff268;
+  text-decoration: none;
+  text-align: center;
+  font-size: 0.5rem;
+  background: #9cb92d;
+  border-radius: 2px;
+  line-height: 0.8rem;
+  margin-top: 0.5rem;
 }

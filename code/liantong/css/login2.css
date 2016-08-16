@@ -1,0 +1,64 @@
+* {
+  padding: 0;
+  border: 0;
+  margin: 0;
+}
+body {
+  width: 100%;
+  background: url("../img/bgs.png");
+}
+body p {
+  display: block;
+  width: 7rem;
+  margin: 2rem auto 0.5rem auto;
+}
+body p .active {
+  border-bottom: 2px solid #9cb92d;
+}
+body p span {
+  display: inline-block;
+  width: 3.5rem;
+  text-align: center;
+}
+body p span button {
+  font-size: 0.4rem;
+  color: #f3c420;
+  background: rgba(255,255,255,0);
+  padding-bottom: 0.2rem;
+  outline: none;
+}
+body .register {
+  display: none;
+  width: 7rem;
+  margin: 0 auto;
+}
+body .login {
+  width: 7rem;
+  margin: 0 auto;
+}
+body .login .linkto {
+  width: 7rem;
+}
+body .login .linkto a {
+  display: inline-block;
+  width: 3.5rem;
+  text-align: center;
+  color: #f3c420;
+}
+body input {
+  width: 7rem;
+  line-height: 1rem;
+  margin-bottom: 0.4rem;
+  text-align: center;
+  background: transparent;
+  border: 1px solid #f3c420;
+  color: #f3c420;
+}
+body .footer {
+  position: absolute;
+  top: 13rem;
+  left: 0.5rem;
+}
+body .footer .links .gaps {
+  display: none;
+}

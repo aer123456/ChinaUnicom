@@ -1,0 +1,25 @@
+.footer {
+  width: 9rem;
+  margin: 0 auto 1rem auto;
+  clear: both;
+}
+.footer .links {
+  text-align: center;
+}
+.footer .links a {
+  display: inline-block;
+  font-size: 0.25rem;
+  background: #9cb92d;
+  border-radius: 2px;
+  line-height: 0.6rem;
+  margin-top: 0.5rem;
+  padding: 0 0.2rem;
+  color: #fff268;
+  text-decoration: none;
+}
+.footer .links .gaps {
+  margin-right: 0.22rem;
+}
+.footer .img img {
+  width: 1.28rem;
+}
